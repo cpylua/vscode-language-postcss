@@ -6,3 +6,4 @@ This is a clone of [PostCSS syntax](https://marketplace.visualstudio.com/items?i
 
 The original extension does not have a github repository, so open source collaboration is impossible. This is the main reason I created this clone.
 
+![snapshot](https://raw.githubusercontent.com/cpylua/vscode-language-postcss/master/postcss-snapshot.png)
