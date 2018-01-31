@@ -7,8 +7,20 @@
     "engines": {
         "vscode": "^1.14.0"
     },
+    "icon": "postcss.png",
     "categories": [
         "Languages"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cpylua/vscode-language-postcss"
+    },
+    "keywords": [
+        "postcss",
+        "syntax",
+        "grammar",
+        "language",
+        "vscode"
     ],
     "contributes": {
         "languages": [{
