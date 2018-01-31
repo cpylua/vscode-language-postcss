@@ -2,7 +2,7 @@
     "name": "language-postcss",
     "displayName": "language-postcss",
     "description": "PostCSS language support",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "cpylua",
     "engines": {
         "vscode": "^1.14.0"
@@ -24,13 +24,13 @@
     ],
     "contributes": {
         "languages": [{
-            "id": "cpylua.postcss",
+            "id": "PostCSS",
             "aliases": ["PostCSS", "postcss"],
             "extensions": [".pcss",".postcss"],
             "configuration": "./language-configuration.json"
         }],
         "grammars": [{
-            "language": "cpylua.postcss",
+            "language": "PostCSS",
             "scopeName": "source.postcss",
             "path": "./syntaxes/postcss.tmLanguage"
         }]
