@@ -1,4 +1,4 @@
-# language-postcss README
+# language-postcss
 
 Adds syntax highlighting to PostCSS files in Visual Studio Code.
 
