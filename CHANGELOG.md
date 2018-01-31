@@ -8,3 +8,7 @@ Initial release of language-postcss
 ## 1.0.1
 
 Update grammer
+
+## 1.0.2
+
+Fix variable highlighting
