@@ -2,7 +2,7 @@
     "name": "language-postcss",
     "displayName": "language-postcss",
     "description": "PostCSS language support",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "cpylua",
     "engines": {
         "vscode": "^1.14.0"
