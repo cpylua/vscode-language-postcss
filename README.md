@@ -34,6 +34,10 @@ If you want syntax checks for `postcss-nesting` (i.e., require the `&` character
 }
 ```
 
+## TODO
+
+- [ ] Add completion for selectors, variables, properties etc.
+
 ## Credits
 
 This is a clone of [PostCSS syntax](https://marketplace.visualstudio.com/items?itemName=ricard.PostCSS) with minor changes.
