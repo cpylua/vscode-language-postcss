@@ -34,6 +34,16 @@ If you want syntax checks for `postcss-nesting` (i.e., require the `&` character
 }
 ```
 
+## Use PostCSS syntax highlighting in `*.css` files
+
+To enable PostCSS syntax highlighting in `*.css` files, add the following to your VS Code settings:
+
+```
+  "files.associations": {
+    "*.css": "postcss"
+  }
+```
+
 ## TODO
 
 - [ ] Add completion for selectors, variables, properties etc.
