@@ -1,3 +1,5 @@
+## I'm not using `postcss` anymore, it's a long store, but I switched to `sass`. Contact me if you are interested in this project and willing to help.
+
 # language-postcss
 
 Adds syntax highlighting to PostCSS files in Visual Studio Code.
