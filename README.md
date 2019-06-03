@@ -1,4 +1,4 @@
-## I'm not using `postcss` anymore, it's a long story, but I switched to `sass`. Contact me if you are interested in this project and willing to help.
+# I'm not using `postcss` anymore, it's a long story, but I switched to `sass`. Contact me if you are interested in this project and willing to help.
 
 # language-postcss
 
